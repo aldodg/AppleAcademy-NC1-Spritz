@@ -4,6 +4,4 @@ Apple Developer Academy Nano Challenge 1 - Spritz
 Hi, we are the Nuts Knights and this is our project, hope you'll like it!
 
 
-![NutsKnights_Fighting AtomsFission - Poster](NutsKnights_Fighting AtomsFission - Poster.png)
-
-![test.png](test.png)
+![NutsKnights-Fighting_Atoms_Fission-Poster](NutsKnights-Fighting_Atoms_Fission-Poster.png)
